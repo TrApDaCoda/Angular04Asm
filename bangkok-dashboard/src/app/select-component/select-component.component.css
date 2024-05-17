@@ -1,0 +1,20 @@
+.select {
+  width: 100%;
+}
+
+.select ul {
+  list-style: none;
+  padding: 0;
+}
+
+.select li {
+  cursor: pointer;
+  padding: 10px;
+  border-bottom: 1px solid #a68b6e;
+  transition: background-color 0.3s;
+}
+
+.select li:hover {
+  background-color: #8e7c64;
+  color: #f1f1f1;
+}

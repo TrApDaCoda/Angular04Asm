@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #eae7dc; /* Light beige background */
+}
+
+app-select-component,
+app-display-component {
+  flex: 1;
+  margin: 0 10px;
+}
+
+app-select-component {
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #d8c3a5;
+}
+
+app-display-component {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #d8c3a5;
+}

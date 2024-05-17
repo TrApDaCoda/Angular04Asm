@@ -1,0 +1,21 @@
+.display {
+  background-color: #d8c3a5; /* Light brown background */
+  padding: 20px;
+  border-radius: 4px;
+  color: #3b3b3b; /* Dark text color */
+}
+
+.display h2 {
+  margin-top: 0;
+  color: #6b4423; /* Dark brown text color */
+}
+
+.display ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.display li {
+  margin-bottom: 5px;
+  color: #6b4423; /* Dark brown text color */
+}

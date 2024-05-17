@@ -1,0 +1,9 @@
+<div class="display" *ngIf="district">
+  <h2>{{ district.name }}</h2>
+  <p>Population: {{ district.population }}</p>
+  <p>Area: {{ district.area_sq_km }} sq.km</p>
+  <h3>Landmarks:</h3>
+  <ul>
+    <li *ngFor="let landmark of district.landmarks">{{ landmark }}</li>
+  </ul>
+</div>

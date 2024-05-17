@@ -1,0 +1,7 @@
+<div class="select">
+  <ul>
+    <li *ngFor="let district of districts" (click)="onSelect(district)">
+      {{ district.name }}
+    </li>
+  </ul>
+</div>

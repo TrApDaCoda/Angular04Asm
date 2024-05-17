@@ -1,0 +1,461 @@
+{
+  "Bangkok": {
+    "districts": [
+      {
+        "name": "Phra Nakhon",
+        "population": 52428,
+        "area_sq_km": 5.532,
+        "landmarks": [
+          "Grand Palace",
+          "Wat Pho",
+          "Wat Arun"
+        ]
+      },
+      {
+        "name": "Dusit",
+        "population": 77691,
+        "area_sq_km": 10.7,
+        "landmarks": [
+          "Dusit Palace",
+          "Wat Benchamabophit",
+          "Ananta Samakhom Throne Hall"
+        ]
+      },
+      {
+        "name": "Nong Chok",
+        "population": 94582,
+        "area_sq_km": 236.261,
+        "landmarks": [
+          "Nong Chok Park",
+          "Kwan-Riam Floating Market"
+        ]
+      },
+      {
+        "name": "Bang Rak",
+        "population": 49782,
+        "area_sq_km": 5.54,
+        "landmarks": [
+          "Lumphini Park",
+          "Patpong Night Market",
+          "Bangkokian Museum"
+        ]
+      },
+      {
+        "name": "Bang Khen",
+        "population": 173398,
+        "area_sq_km": 47.758,
+        "landmarks": [
+          "Central Ramindra",
+          "Wat Phra Si Mahathat"
+        ]
+      },
+      {
+        "name": "Bang Kapi",
+        "population": 148120,
+        "area_sq_km": 28.523,
+        "landmarks": [
+          "The Mall Bangkapi",
+          "NIDA"
+        ]
+      },
+      {
+        "name": "Pathum Wan",
+        "population": 53663,
+        "area_sq_km": 8.37,
+        "landmarks": [
+          "Siam Paragon",
+          "MBK Center",
+          "Jim Thompson House"
+        ]
+      },
+      {
+        "name": "Pom Prap Sattru Phai",
+        "population": 50814,
+        "area_sq_km": 1.931,
+        "landmarks": [
+          "Wat Saket",
+          "Bobae Market"
+        ]
+      },
+      {
+        "name": "Phra Khanong",
+        "population": 88163,
+        "area_sq_km": 13.986,
+        "landmarks": [
+          "Gateway Ekamai",
+          "W District"
+        ]
+      },
+      {
+        "name": "Min Buri",
+        "population": 146429,
+        "area_sq_km": 79.887,
+        "landmarks": [
+          "Min Buri Market",
+          "Safari World"
+        ]
+      },
+      {
+        "name": "Lat Krabang",
+        "population": 164456,
+        "area_sq_km": 123.859,
+        "landmarks": [
+          "Suvarnabhumi Airport",
+          "King Mongkut's Institute of Technology Ladkrabang"
+        ]
+      },
+      {
+        "name": "Yan Nawa",
+        "population": 83118,
+        "area_sq_km": 16.662,
+        "landmarks": [
+          "Asiatique The Riverfront",
+          "Wat Yannawa"
+        ]
+      },
+      {
+        "name": "Samphanthawong",
+        "population": 24573,
+        "area_sq_km": 1.416,
+        "landmarks": [
+          "Chinatown",
+          "Wat Traimit"
+        ]
+      },
+      {
+        "name": "Phaya Thai",
+        "population": 70617,
+        "area_sq_km": 9.141,
+        "landmarks": [
+          "Chatuchak Market",
+          "Victory Monument"
+        ]
+      },
+      {
+        "name": "Thon Buri",
+        "population": 116109,
+        "area_sq_km": 8.484,
+        "landmarks": [
+          "Iconsiam",
+          "Wat Arun"
+        ]
+      },
+      {
+        "name": "Bangkok Yai",
+        "population": 81455,
+        "area_sq_km": 6.385,
+        "landmarks": [
+          "Wat Kalayanamit",
+          "Wang Derm Palace"
+        ]
+      },
+      {
+        "name": "Huai Khwang",
+        "population": 81622,
+        "area_sq_km": 15.335,
+        "landmarks": [
+          "The Street Ratchada",
+          "Esplanade Ratchada"
+        ]
+      },
+      {
+        "name": "Khlong San",
+        "population": 71935,
+        "area_sq_km": 6.876,
+        "landmarks": [
+          "Khlong San Market",
+          "ICONSIAM"
+        ]
+      },
+      {
+        "name": "Taling Chan",
+        "population": 104623,
+        "area_sq_km": 29.479,
+        "landmarks": [
+          "Taling Chan Floating Market",
+          "Thonburi Market"
+        ]
+      },
+      {
+        "name": "Bangkok Noi",
+        "population": 129304,
+        "area_sq_km": 11.944,
+        "landmarks": [
+          "Siriraj Medical Museum",
+          "Wang Lang Market"
+        ]
+      },
+      {
+        "name": "Bang Khun Thian",
+        "population": 174702,
+        "area_sq_km": 120.687,
+        "landmarks": [
+          "Bang Khun Thian Museum",
+          "Central Plaza Rama II"
+        ]
+      },
+      {
+        "name": "Phasi Charoen",
+        "population": 127135,
+        "area_sq_km": 19.377,
+        "landmarks": [
+          "Wat Paknam Phasi Charoen",
+          "Seacon Bangkae"
+        ]
+      },
+      {
+        "name": "Nong Khaem",
+        "population": 145375,
+        "area_sq_km": 35.825,
+        "landmarks": [
+          "Victoria Gardens",
+          "Big C Extra Petchkasem"
+        ]
+      },
+      {
+        "name": "Rat Burana",
+        "population": 82616,
+        "area_sq_km": 15.782,
+        "landmarks": [
+          "Central Plaza Rama III",
+          "Wat Ratcha Singkhon"
+        ]
+      },
+      {
+        "name": "Bang Phlat",
+        "population": 115732,
+        "area_sq_km": 12.029,
+        "landmarks": [
+          "Bangkok Noi Canal",
+          "Wat Suwannaram"
+        ]
+      },
+      {
+        "name": "Din Daeng",
+        "population": 122223,
+        "area_sq_km": 8.353,
+        "landmarks": [
+          "Fortune Town",
+          "Central Plaza Grand Rama IX"
+        ]
+      },
+      {
+        "name": "Bueng Kum",
+        "population": 114913,
+        "area_sq_km": 24.311,
+        "landmarks": [
+          "Navamin Park",
+          "Seri Thai Park"
+        ]
+      },
+      {
+        "name": "Sathon",
+        "population": 82908,
+        "area_sq_km": 9.326,
+        "landmarks": [
+          "Lumphini Park",
+          "Saint Louis Church"
+        ]
+      },
+      {
+        "name": "Bang Sue",
+        "population": 125440,
+        "area_sq_km": 11.455,
+        "landmarks": [
+          "Bang Sue Grand Station",
+          "Mochit Market"
+        ]
+      },
+      {
+        "name": "Chatuchak",
+        "population": 145829,
+        "area_sq_km": 32.908,
+        "landmarks": [
+          "Chatuchak Weekend Market",
+          "Central Plaza Ladprao"
+        ]
+      },
+      {
+        "name": "Bang Kho Laem",
+        "population": 91323,
+        "area_sq_km": 10.921,
+        "landmarks": [
+          "Asiatique The Riverfront",
+          "Wat Ratcha Singkhon"
+        ]
+      },
+      {
+        "name": "Prawet",
+        "population": 167092,
+        "area_sq_km": 52.521,
+        "landmarks": [
+          "Seacon Square",
+          "Paradise Park"
+        ]
+      },
+      {
+        "name": "Khlong Toei",
+        "population": 109045,
+        "area_sq_km": 13.882,
+        "landmarks": [
+          "Benjakitti Park",
+          "Khlong Toei Market"
+        ]
+      },
+      {
+        "name": "Suan Luang",
+        "population": 122534,
+        "area_sq_km": 23.678,
+        "landmarks": [
+          "Seacon Square",
+          "Rama IX Park"
+        ]
+      },
+      {
+        "name": "Chom Thong",
+        "population": 114097,
+        "area_sq_km": 16.068,
+        "landmarks": [
+          "Wat Nangnong Worawihan",
+          "Central Plaza Rama II"
+        ]
+      },
+      {
+        "name": "Don Mueang",
+        "population": 168973,
+        "area_sq_km": 36.803,
+        "landmarks": [
+          "Don Mueang International Airport",
+          "Royal Thai Air Force Museum"
+        ]
+      },
+      {
+        "name": "Ratchathewi",
+        "population": 78284,
+        "area_sq_km": 7.12,
+        "landmarks": [
+          "Victory Monument",
+          "Pantip Plaza",
+          "Baiyoke Tower II"
+        ]
+      },
+      {
+        "name": "Lat Phrao",
+        "population": 122457,
+        "area_sq_km": 21.824,
+        "landmarks": [
+          "Central Plaza Ladprao",
+          "Union Mall"
+        ]
+      },
+      {
+        "name": "Watthana",
+        "population": 101247,
+        "area_sq_km": 12.565,
+        "landmarks": [
+          "Terminal 21",
+          "EmQuartier"
+        ]
+      },
+      {
+        "name": "Bang Khae",
+        "population": 193781,
+        "area_sq_km": 44.456,
+        "landmarks": [
+          "Seacon Bangkae",
+          "The Mall Bangkae"
+        ]
+      },
+      {
+        "name": "Lak Si",
+        "population": 109556,
+        "area_sq_km": 22.841,
+        "landmarks": [
+          "IT Square",
+          "Chaeng Watthana Government Complex"
+        ]
+      },
+      {
+        "name": "Sai Mai",
+        "population": 191002,
+        "area_sq_km": 44.615,
+        "landmarks": [
+          "Bhumibol Adulyadej Hospital",
+          "Fashion Island"
+        ]
+      },
+      {
+        "name": "Khan Na Yao",
+        "population": 83201,
+        "area_sq_km": 25.932,
+        "landmarks": [
+          "Fashion Island",
+          "Panya Indra Golf Club"
+        ]
+      },
+      {
+        "name": "Saphan Sung",
+        "population": 75989,
+        "area_sq_km": 28.124,
+        "landmarks": [
+          "Samitivej Srinakarin Hospital",
+          "Saphan Sung Market"
+        ]
+      },
+      {
+        "name": "Wang Thonglang",
+        "population": 103361,
+        "area_sq_km": 19.302,
+        "landmarks": [
+          "The Crystal Ekamai-Ramindra",
+          "CDC (Crystal Design Center)"
+        ]
+      },
+      {
+        "name": "Khlong Sam Wa",
+        "population": 182819,
+        "area_sq_km": 113.220,
+        "landmarks": [
+          "Safari World",
+          "Fashion Island"
+        ]
+      },
+      {
+        "name": "Bang Na",
+        "population": 89752,
+        "area_sq_km": 18.789,
+        "landmarks": [
+          "Bangkok International Trade & Exhibition Centre (BITEC)",
+          "Central Plaza Bangna"
+        ]
+      },
+      {
+        "name": "Thawi Watthana",
+        "population": 84555,
+        "area_sq_km": 28.742,
+        "landmarks": [
+          "Thonburi Market",
+          "Vichaivej Hospital"
+        ]
+      },
+      {
+        "name": "Thung Khru",
+        "population": 118625,
+        "area_sq_km": 23.287,
+        "landmarks": [
+          "Bangmod Hospital",
+          "King Mongkut's University of Technology Thonburi"
+        ]
+      },
+      {
+        "name": "Bang Bon",
+        "population": 105270,
+        "area_sq_km": 34.745,
+        "landmarks": [
+          "Wat Bang Bon",
+          "Central Plaza Rama II"
+        ]
+      }
+    ]
+  }
+}
